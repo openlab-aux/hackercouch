@@ -13,17 +13,6 @@
 It’s like CouchSurfing, except CouchSurfing sucks. So does AirBnB, hostels and hotels. Why not stay with fellow hackers when traveling and work on awesome stuff together? Also join our IRC channel [#hackercouch](http://webchat.freenode.net/?channels=#hackercouch).
 
 
-## Crash on my couch
-I have no permanent couch at the moment. But if I would, I’d say something like this:
+## Crash on our couch
 
-* couch in Berlin-Kreuzberg, near cool spots like betahaus and c-base
-
-No need to limit length of stay or state interests, just check out people’s profiles, look at their code and discuss everything directly in the issue.
-
-
-## Have me crash on your couch
-Your next travels where you need a couch go in here, like:
-
-* May 6 – 12 in Berlin
-* June 3 – ? in Munich
-
+We have a couch in our space, and if you find this and want to visit us in Augsburg, you're welcome to crash here. Be aware that the lab is constantly in use and you won't really be able to find sleep. (no separate room!)
